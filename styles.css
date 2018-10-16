@@ -1,0 +1,51 @@
+body{
+    background-color:white;
+}
+.d1{
+    background-image:url('photo.jpg');
+    background-size:100%;
+    background-repeat: no-repeat;
+   font-size:50px;
+   color:rgb(245, 245, 220);
+   box-shadow: 3px 4px 5px #303030;
+   margin-bottom: 87px;
+   padding-top: 400px;
+   
+}
+.p1{
+    color:whitesmoke;
+    font-size:600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.d11{
+    color:#22325f;
+    font-size: 4em;
+    font-weight: 90;
+    font-family: 'Source Sans Pro', sans-serif;   
+}
+.tab :hover{
+    border-style: solid;
+    border-color:black;
+}
+.divv { 
+    margin:3px;
+    background-color: #eeeeee;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    overflow: hidden;
+
+    
+}
+
+
+ 
+
+
+
+
+
+
+

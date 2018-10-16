@@ -1,0 +1,50 @@
+body{
+    background-color:white;
+}
+.d1{
+    background-image:url('photo.jpg');
+    background-size:100%;
+    background-repeat: no-repeat;
+   font-size:50px;
+   color:rgb(245, 245, 220);
+   box-shadow: 3px 4px 5px #303030;
+   margin-bottom: 87px;
+   padding-top: 400px;
+   
+}
+.p1{
+    color:whitesmoke;
+    font-size:600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.d11{
+    color:#22325f;
+    font-size: 4em;
+    font-weight: 90;
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+.div1,.div2,.div3,.div4,.div5,.div6{
+    
+    margin:3px;
+    background-color:#333;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.PP{
+    padding:50px;
+    display: grid;
+  grid-template-columns: auto auto ;
+}
+ .div1:hover{
+    border-color:black;
+    height: 5O;
+    width: 50;
+}
+
+
+
+
+
+
